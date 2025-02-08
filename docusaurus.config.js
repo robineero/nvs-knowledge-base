@@ -150,4 +150,9 @@ const config = {
     }),
 };
 
-export default config;
+//export default config;
+export default {
+
+  // https://docusaurus.io/docs/api/docusaurus-config#noIndex
+  noIndex: true, // Defaults to `false`
+};
