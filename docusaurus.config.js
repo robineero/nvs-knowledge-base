@@ -81,9 +81,15 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'adsSidebar',
             position: 'left',
             label: 'Ads',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'seoSidebar',
+            position: 'left',
+            label: 'SEO',
           },
           {
             type: 'docSidebar',
