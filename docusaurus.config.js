@@ -13,9 +13,10 @@ const config = {
   title: 'NVS Marketing Knowledgebase',
   tagline: '',
   favicon: 'img/favicon.ico',
+  noIndex: true,
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://know.that.ee',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -150,9 +151,4 @@ const config = {
     }),
 };
 
-//export default config;
-export default {
-
-  // https://docusaurus.io/docs/api/docusaurus-config#noIndex
-  noIndex: true, // Defaults to `false`
-};
+export default config;

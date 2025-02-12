@@ -9,3 +9,5 @@ npm run start
 rmdir -r "path"
 npm run build
 ~~~
+
+https://docusaurus.io/docs/api/docusaurus-config#noIndex
