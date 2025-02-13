@@ -4,7 +4,7 @@ title: Intro to Google Ads
 description: My document description
 ---
 
-This page gives brief intro to Google Ads.
+This page gives a brief intro to Google Ads.
 
 ## What determines the cost
 
@@ -15,9 +15,9 @@ On Ahrefs website you can find some examples of the [most expensive keywords](ht
 
 ## Expectations for budget
 
-Inhouse we run campaigns up to 50 eur/month. Ad expenditure is determined buy cost per click and search volume.
+Inhouse we run campaigns with budgets up to 50 eur/month. Ad expenditure is determined buy cost per click and search volume.
 
-It is not possible to spend very much money in search ads to promote niche topics that have very low search volume (nobody is searching) and low competition.
+It is not possible to spend very much money using search ads to promote niche topics that have very low search volume (nobody is searching) and low competition (nobody else is bidding).
 
 ## Approval
 

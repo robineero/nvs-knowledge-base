@@ -10,11 +10,23 @@ This document will contain intro to SEO in Novartis.
 
 The goal of SEO is to increase visibility in search results, making it easier for people to find your content. If you do not benefit from free, sustainable, and passive traffic to your content month after month then **you do not need SEO**.
 
+:::danger[Your goals should come first]
+
+If organic traffic to your content does not support your (business) goals then you probably **do not need SEO**.
+
+:::
+
 ## Before creating content
 
 **Create and improve your content in small iterations.** Unlike printed materials, digital content can be developed and improved continuously without huge investments and effort. Do not try to create the best text in the world with the first iteration. Do not hold onto the content until you think it is perfect. If your content **creates value** and **exceeds the approval threshold**, then publish it!
 
 **Look at what has been done so far.** Google the keywords (also in English) and see which content ranks and why. If you want to rank in the top 10, then you need to compete with already ranking content (kick someone out from the first page). This means your content needs to be somewhat similar but much better.
+
+:::tip[How do you do SEO?]
+
+"We’re following a simple rule: Write in-depth articles that are truly twice as good as any other article on the topic. Mostly, it works. Many of the articles in this blog are outranking content in the top marketing blogs." - [Karola Karlson](https://www.linkedin.com/in/karola-karlson/)
+
+:::
 
 **Write down all the keywords** (for example, "cholesterol") and phrases ("how to measure cholesterol") that come to mind around your topic. Then, let's look at the search volume in your market by using [Google Keyword Planner](https://support.google.com/google-ads/answer/7337243). This way, you know before writing which words and phrases people use to find information about the topic.
 
