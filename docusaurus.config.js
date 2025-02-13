@@ -21,11 +21,6 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -92,13 +87,6 @@ const config = {
             label: 'SEO',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
             href: 'https://github.com/robineero/nvs-knowledge-base/',
             label: 'GitHub',
             position: 'right',
@@ -112,25 +100,21 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Ads',
+                to: '/docs/ads/intro',
+              },
+              {
+                label: 'SEO',
+                to: '/docs/seo/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Useful links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Ahrefs Blog',
+                href: 'https://ahrefs.com/blog/',
               },
             ],
           },
@@ -138,12 +122,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/robineero/nvs-knowledge-base/',
               },
             ],
           },

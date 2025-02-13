@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-title: Intro to ads
+title: Intro to Google Ads
 description: My document description
 ---
 
-Hello
+This page gives brief intro to Google Ads.
 
 ## What determines the cost
 

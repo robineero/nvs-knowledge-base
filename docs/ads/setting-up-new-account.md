@@ -11,8 +11,8 @@ This page explains how to set up new Google Ads account.
 Couple of things to know:
 
 - Every advertising initiative should run on separate Google Ads account. If you start new initiative, create new Google Ads account.
-- If you have created an account then the account should be registered in OneRegistry.
-- Payment by using procurement card.
+- If you have created an account then the account should be registered in [OneRegistry](https://nvs-prod.appiancloud.com/suite/sites/1P1R). *Not sure as what and how. If we have managed to register the first account then we can use it as a template.*
+- Payment by using procurement card. *At the moment we are waiting for the card and then figure out the billing details.*
 
 ## Hygiene
 
@@ -25,7 +25,7 @@ First things to do on your newly created account. This list can act as a checkli
 
 **Set manual CPC on campaign level**
 
-Can set in campaign settings after you have created a campaign. This means than you have full control over how much you pay for clicks.
+[Manual CPC](https://support.google.com/google-ads/answer/2464960?hl=en&ref_topic=3119128&sjid=2298791795619457255-EU) can be set in campaign settings after you have created a campaign. This means than you have the most control over how much you pay for clicks. Here you can learn more about bidding strategies: [support.google.com/google-ads/answer/2472725](https://support.google.com/google-ads/answer/2472725)
 
 - Campaigns → Overview → Filter a campaign → Settings → Bidding → Select bid strategy directly → **Manual CPC**
 
