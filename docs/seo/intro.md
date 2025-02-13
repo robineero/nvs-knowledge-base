@@ -24,15 +24,17 @@ If organic traffic to your content does not support your (business) goals then y
 
 :::tip[How do you do SEO?]
 
-"We’re following a simple rule: Write in-depth articles that are truly twice as good as any other article on the topic. Mostly, it works. Many of the articles in this blog are outranking content in the top marketing blogs." - [Karola Karlson](https://www.linkedin.com/in/karola-karlson/)
+"We’re following a simple rule: Write in-depth articles that are truly twice as good as any other article on the topic. Mostly, it works. Many of the articles in this blog are outranking content in the top marketing blogs." - [Karola Karlson](https://www.linkedin.com/in/karola-karlson/) (answer from 01.2018)
 
 :::
 
 **Write down all the keywords** (for example, "cholesterol") and phrases ("how to measure cholesterol") that come to mind around your topic. Then, let's look at the search volume in your market by using [Google Keyword Planner](https://support.google.com/google-ads/answer/7337243). This way, you know before writing which words and phrases people use to find information about the topic.
 
+## Food for thought
+
 Is there a reason for anyone to prefer your content over everything else that is available?
 
-Is it clear to you what you want to happen or change when you start getting traffic after investing in SEO? How you thought about how to communicate this change or goal in your content?
+Is it clear to you what you want to happen or change when you start getting traffic after investing in SEO? Have you thought about how to communicate this desired change or goal in your content to your audience? Do readers understand **what** you want them to do and **how** can they do that?
 
 ## Useful links and resources
 
