@@ -4,7 +4,7 @@ title: Intro to SEO
 description: My document description
 ---
 
-This document will contain intro to SEO in Novartis.
+This document will contain intro to search engine optimization (SEO) in Novartis.
 
 ## Do you need SEO
 
@@ -16,7 +16,7 @@ If organic traffic to your content does not support your (business) goals then y
 
 :::
 
-## Before creating content
+## Good to know before creating content
 
 **Create and improve your content in small iterations.** Unlike printed materials, digital content can be developed and improved continuously without huge investments and effort. Do not try to create the best text in the world with the first iteration. Do not hold onto the content until you think it is perfect. If your content **creates value** and **exceeds the approval threshold**, then publish it!
 
@@ -28,7 +28,11 @@ If organic traffic to your content does not support your (business) goals then y
 
 :::
 
+**Look at how texts are written online.** Take a look at [Ahrefs blog](https://ahrefs.com/blog/) or [Neil Patel blog](https://neilpatel.com/blog/) blog for example and learn how they structure texts. Paragraph often is just one sentence, crosslinks to your other pages, how long the content is, how it is structured to improve **readability** etc.
+
 **Write down all the keywords** (for example, "cholesterol") and phrases ("how to measure cholesterol") that come to mind around your topic. Then, let's look at the search volume in your market by using [Google Keyword Planner](https://support.google.com/google-ads/answer/7337243). This way, you know before writing which words and phrases people use to find information about the topic.
+
+**There needs to be search.** S in SEO stands for "search". If search volume for your keyword or phrase is very low then it is hard to benefit from SEO. May be better to [buy ads instead](/docs/ads/intro.md).
 
 ## Food for thought
 
