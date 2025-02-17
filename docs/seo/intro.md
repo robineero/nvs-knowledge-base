@@ -42,18 +42,19 @@ Is it clear to you what you want to happen or change when you start getting traf
 
 ## How to measure
 
-There are free tools for any website owner who cares about their performance in the search results. [Google Analytics](https://marketingplatform.google.com/about/analytics/) (GA4), [Google Search Console](https://search.google.com/search-console/about) (GSC), [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) (AWT), [SerpRobot free SERP checker](https://www.serprobot.com/serp-check).
+There are free tools for any website owner who cares about their performance in the search results.  These tools include [Google Analytics](https://marketingplatform.google.com/about/analytics/) (GA4), [Google Search Console](https://search.google.com/search-console/about) (GSC), [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) (AWT), [SerpRobot free SERP checker](https://www.serprobot.com/serp-check).
 
 :::danger[Learning curve]
 
-If you have never used any web analytics tools then there will be a learning curve for you. Luckily internet is full of tutorials, courses and all kind of learning materials.
+If you have never used any web analytics tools, there will be a learning curve for you. Luckily, [the internet](https://www.youtube.com/watch?v=iDbyYGrswtg) is full of tutorials, courses, and all kinds of learning materials.
 
 :::
 
-In order to get GA4 and GSC for your website you need to create Google account with yout @novartis.com e-mail and then create multiple tickets:
+To get GA4 and GSC for your website, you need to create a Google account using your @novartis.com email and then create multiple tickets:
 
-- [Google Analytics Premium Platform Application Service](https://novartiscorp.service-now.com/itsp?id=itsp_sc_cat_item&sys_id=3c1d5d284f2ba300f7930fbf0310c739) - ticket to create GA4 and GSC properties for you website, share access with you
-- [Internet Drupal Acquia Platform](https://novartiscorp.service-now.com/itsp?id=itsp_sc_cat_item&sys_id=df62d8f7dbb8374cb4184baf169619be) - ticket to add GA4 and GSC code to your Drupal website
+- [Google Analytics Premium Platform Application Service](https://novartiscorp.service-now.com/itsp?id=itsp_sc_cat_item&sys_id=3c1d5d284f2ba300f7930fbf0310c739) - Create a ticket to have GA4 and GSC properties set up for your website and share access with you.
+- Before you can add GA4 to your website you need to fill the [OneTrust Onboarding Cookie Onboarding Request Form](https://forms.office.com/pages/responsepage.aspx?id=dGla839g1EeC1_8x19xTpUfEiFLHCDhHr3sjtqGu4OFUQ1o2QVg2T0JLVUVZNEdGSVpWVkc4TTExMi4u) (MS Form, managed by digital.governance@novartis.com) to onboard your website to OneTrust Consent Management Platform (CMP).
+- [Internet Drupal Acquia Platform](https://novartiscorp.service-now.com/itsp?id=itsp_sc_cat_item&sys_id=df62d8f7dbb8374cb4184baf169619be) - Create a ticket to add the OneTrust script, GA4 and GSC code to your Drupal website.
 
 ## Useful links and resources
 
