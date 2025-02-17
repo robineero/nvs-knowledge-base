@@ -40,6 +40,21 @@ Is there a reason for anyone to prefer your content over everything else that is
 
 Is it clear to you what you want to happen or change when you start getting traffic after investing in SEO? Have you thought about how to communicate this desired change or goal in your content to your audience? Do readers understand **what** you want them to do and **how** can they do that?
 
+## How to measure
+
+There are free tools for any website owner who cares about their performance in the search results. [Google Analytics](https://marketingplatform.google.com/about/analytics/) (GA4), [Google Search Console](https://search.google.com/search-console/about) (GSC), [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) (AWT), [SerpRobot free SERP checker](https://www.serprobot.com/serp-check).
+
+:::danger[Learning curve]
+
+If you have never used any web analytics tools then there will be a learning curve for you. Luckily internet is full of tutorials, courses and all kind of learning materials.
+
+:::
+
+In order to get GA4 and GSC for your website you need to create Google account with yout @novartis.com e-mail and then create multiple tickets:
+
+- [Google Analytics Premium Platform Application Service](https://novartiscorp.service-now.com/itsp?id=itsp_sc_cat_item&sys_id=3c1d5d284f2ba300f7930fbf0310c739) - ticket to create GA4 and GSC properties for you website, share access with you
+- [Internet Drupal Acquia Platform](https://novartiscorp.service-now.com/itsp?id=itsp_sc_cat_item&sys_id=df62d8f7dbb8374cb4184baf169619be) - ticket to add GA4 and GSC code to your Drupal website
+
 ## Useful links and resources
 
 - [What is SEO and Why Does It Matter for Your Website?](https://ahrefs.com/blog/what-is-seo/) (Ahrefs blog)
