@@ -58,10 +58,11 @@ To get GA4 and GSC for your website, you need to create a Google account using y
 
 ### What does each tool do
 
-**Google Analytics** tells you how many visitors your website has, where they come from (traffic source), which content they look at (engagement), information about the visitor (location, demographic details) and much more. Unfortunately our GA4 setups do not work very well.
+**Google Analytics** tells you how many visitors your website has, where they come from (traffic source), which content they look at (engagement), information about the visitor (location, demographic details) and much more. Unfortunately our GA4 setups do not work very well 😔
 
-**Google Search Console** shows you how your website or single page is indexed in Google and which queries bring users to your site or page. You can analyse your site's search impressions, clicks and position on Google Search. It does not tell you anything about your competitors.
+**Google Search Console** shows you how your website or single page is indexed in Google and which search queries (organic traffic) bring users to your site or page. You can analyse your site's search impressions, clicks and position on Google Search. It does not tell you anything about your competitors.
 
+**Ahrefs Webmaster Tools** is professional SEO tool. You can monitor your SEO health, know backlinks, see data about keywords, and much more. It also gives you privacy-friendly, cookie-free [Analytics](https://ahrefs.com/web-analytics) which is not interferred by cookie consent (so you get more accurate data). You can set it up and add it to your website if you know how to do it. No support from Novartis.
 
 ## Useful links and resources
 
