@@ -56,6 +56,13 @@ To get GA4 and GSC for your website, you need to create a Google account using y
 - Before you can add GA4 to your website you need to fill the [OneTrust Onboarding Cookie Onboarding Request Form](https://forms.office.com/pages/responsepage.aspx?id=dGla839g1EeC1_8x19xTpUfEiFLHCDhHr3sjtqGu4OFUQ1o2QVg2T0JLVUVZNEdGSVpWVkc4TTExMi4u) (MS Form, managed by digital.governance@novartis.com) to onboard your website to OneTrust Consent Management Platform (CMP).
 - [Internet Drupal Acquia Platform](https://novartiscorp.service-now.com/itsp?id=itsp_sc_cat_item&sys_id=df62d8f7dbb8374cb4184baf169619be) - Create a ticket to add the OneTrust script, GA4 and GSC code to your Drupal website.
 
+### What does each tool do
+
+**Google Analytics** tells you how many visitors your website has, where they come from (traffic source), which content they look at (engagement), information about the visitor (location, demographic details) and much more. Unfortunately our GA4 setups do not work very well.
+
+**Google Search Console** shows you how your website or single page is indexed in Google and which queries bring users to your site or page. You can analyse your site's search impressions, clicks and position on Google Search. It does not tell you anything about your competitors.
+
+
 ## Useful links and resources
 
 - [What is SEO and Why Does It Matter for Your Website?](https://ahrefs.com/blog/what-is-seo/) (Ahrefs blog)
